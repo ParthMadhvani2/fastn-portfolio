@@ -1,5 +1,13 @@
 # Overview
 
+[Live Preview](parthmadhvani2.github.io/fastn-portfolio/)
+
+Created a Portfolio website using ftd markdown
+
+### Home Page
+![Home Page](./images/homepage.png)
+
+
 [doc-site](https://fastn-community.github.io/doc-site/) will help you create
 a beautiful documentation site in no time.
 
